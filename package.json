@@ -1,0 +1,20 @@
+{
+  "name": "setanta-highlight",
+  "version": "1.0.0",
+  "description": "Setanta syntax higlight for docs",
+  "main": "jsbuild/cli.js",
+  "dependencies": {
+    "@types/he": "^1.1.1",
+    "@types/node": "^13.9.2",
+    "he": "^1.2.0"
+  },
+  "bin": {
+    "setanta-hl": "jsbuild/cli.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "author": "Eoin Davey",
+  "license": "ISC"
+}
